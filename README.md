@@ -1,12 +1,12 @@
 # automatic-document-classification
 Automatic Document Classification using Machine Learning
 
-Using Python 3
-run ``python3 raw.py``
+Using Python 2 and hight
+run ``python main.py``
 ## Lib to install
 Using 
 ```
-pip3 install *lib*
+pip install *lib*
 ```
 
 - glob 
@@ -16,3 +16,6 @@ pip3 install *lib*
 - sklearn       
 - mathplot   
 - numpy     
+
+
+EL FELLAHI Faysal
